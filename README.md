@@ -1,3 +1,3 @@
 # SentimentalAnalysisQU
-Metodología--------------------------------
-La metodolo´gia
+Análisis de Sentimientos para el Quechua usando Cross Language
+
